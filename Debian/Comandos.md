@@ -1,5 +1,7 @@
 -apt update: actualizar los repositorios del sistema
+
 -su root
+
 -apt install openssh-server
 	fla: -y
 
@@ -15,9 +17,13 @@ arrancar la máquina
 -CMD: para conectarse a ssh -> ssh debian@10.179.26.37
 
 -ls
+
 -pwd
+
 -whoami
+
 -apt install apache2
+
 -systemctl status apache2
 	q: para salir
 
