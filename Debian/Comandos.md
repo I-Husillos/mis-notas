@@ -1,4 +1,4 @@
-apt update: actualizar los repositorios del sistema
+apt update: actualizar los repositorios del sistema 
 su root
 apt install openssh-server
 	fla: -y
@@ -20,11 +20,15 @@ whoami
 apt install apache2
 systemctl status apache2
 	q: para salir
+
 nano
+
 cat
+
 mkdir
 
-www-data tanto en apache como en ngnx
+
+www-data tanto en apache como en nginx
 
 chown
 	chown www-data:www-data HTML
