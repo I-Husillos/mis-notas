@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Debian/Comandos.md",
+                "file": "AI/Teoría tema 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comandos"
+              "title": "Teoría tema 1"
             }
           }
         ]
@@ -187,7 +187,10 @@
   },
   "active": "f27077ced9f0a862",
   "lastOpenFiles": [
+    "Sin título.md",
+    "AI/Teoría tema 1.md",
     "Debian/Comandos.md",
+    "AI",
     "Untitled.base",
     "Untitled 1.base",
     "Debian.md",
