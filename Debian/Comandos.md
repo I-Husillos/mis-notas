@@ -2,14 +2,20 @@ apt update: actualizar los repositorios del sistema
 su root
 apt install openssh-server
 	fla: -y
+
 systemctl start ssh
-systemctl enable ssh -> habilita el servicio de ssh al arrancar la máquina
+
+systemctl enable ssh -> habilita el servicio de ssh al 
+arrancar la máquina
+
 systemctl restart ssh
+
 ip a
 
 CMD: para conectarse a ssh -> ssh debian@10.179.26.37
 
-ls pwd
+ls
+pwd
 whoami
 apt install apache2
 systemctl status apache2
