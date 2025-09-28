@@ -1,36 +1,36 @@
-apt update: actualizar los repositorios del sistema 
-su root
-apt install openssh-server
+-apt update: actualizar los repositorios del sistema
+-su root
+-apt install openssh-server
 	fla: -y
 
-systemctl start ssh
+-systemctl start ssh
 
-systemctl enable ssh -> habilita el servicio de ssh al 
+-systemctl enable ssh -> habilita el servicio de ssh al 
 arrancar la máquina
 
-systemctl restart ssh
+-systemctl restart ssh
 
-ip a
+-ip a
 
-CMD: para conectarse a ssh -> ssh debian@10.179.26.37
+-CMD: para conectarse a ssh -> ssh debian@10.179.26.37
 
-ls
-pwd
-whoami
-apt install apache2
-systemctl status apache2
+-ls
+-pwd
+-whoami
+-apt install apache2
+-systemctl status apache2
 	q: para salir
 
-nano
+-nano
 
-cat
+-cat
 
-mkdir
+-mkdir
 
 
-www-data tanto en apache como en nginx
+-www-data tanto en apache como en nginx
 
-chown
+-chown
 	chown www-data:www-data HTML
 	chown -R www-data:www-data HTML
 	
