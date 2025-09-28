@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "9a39556c6c2afbd8",
+        "id": "6d4fd81e2fbe8aea",
         "type": "tabs",
         "children": [
           {
-            "id": "f27077ced9f0a862",
+            "id": "31e901c058153388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT/Comandos git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Comandos git"
+            }
+          },
+          {
+            "id": "bcb5890300895e27",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,22 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "Teoría tema 1"
-            }
-          }
-        ]
-      },
-      {
-        "id": "02486ba5847a45f6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6f99284724faed4b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
             }
           }
         ]
@@ -176,8 +174,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
+      "switcher:Abrir selector rápido": false,
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
@@ -185,18 +183,21 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "f27077ced9f0a862",
+  "active": "31e901c058153388",
   "lastOpenFiles": [
-    "Sin título.md",
     "AI/Teoría tema 1.md",
+    "AI/TEMA_1_FUNDAMENTOS IA_DAW.pdf",
+    "GIT/Comandos git.md",
+    "GIT",
+    "Welcome.md",
+    "create a link.md",
+    "Sin título.md",
     "Debian/Comandos.md",
     "AI",
     "Untitled.base",
     "Untitled 1.base",
     "Debian.md",
     "Untitled",
-    "Debian",
-    "create a link.md",
-    "Welcome.md"
+    "Debian"
   ]
 }

@@ -1,3 +1,5 @@
+Información sacada del PDF [[TEMA_1_FUNDAMENTOS IA_DAW.pdf]]
+
 **📖 Página 1 – Definición de IA y sistemas de IA**
 
 **🔹 1. Definición de Inteligencia Artificial**
