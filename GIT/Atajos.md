@@ -14,7 +14,6 @@ git push -u origin main
 ### Flujo normal (ya configurado)
 
 ```bash
-git pull origin main --allow-unrelated-histories
 git add .
 git commit -m "Actualización"
 git push origin main

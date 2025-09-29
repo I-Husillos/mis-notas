@@ -31,6 +31,7 @@ Un sistema de IA está formado por **módulos especializados** que trabajan junt
 2. **Modelo**🧠
     - Es el “cerebro” del sistema.
     - Representación matemática que **aprende patrones** y genera predicciones.
+	    -Nota: incluso los modelos más sofisticados no razonan; simplemente generan predicciones a partir de patrones aprendidos, cuya complejidad puede llegar a simular procesos de pensamiento.
     - Puede basarse en: **redes neuronales, árboles de decisión, métodos estadísticos/probabilísticos**.
     - En redes neuronales: se organizan en **capas de neuronas artificiales** que ajustan sus pesos para aproximar funciones complejas.
 3. **Algoritmo de entrenamiento** ⚙️

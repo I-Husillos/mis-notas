@@ -1,4 +1,4 @@
-
+Ordenes para copiar y pegar directamente en la terminal [[Atajos]]
 # Guía Definitiva de Git y GitHub
 
 Esta guía es una "chuleta" completa para todas las operaciones comunes y algunas avanzadas que realizamos con Git para interactuar con GitHub. Ideal para recordar comandos rápidamente.
